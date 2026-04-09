@@ -54,25 +54,26 @@ Identificação de extremos
 
 • Digite a produção da hora 12
 
-...
+... (Só será feito de 3 para resumir, porém o código irá calcular 16 valores inteiros)
 
 # Saída esperada
 
-• A produção total foi de: 200
+• A produção total foi de: 37
 
-• A média da produção é de: 12.5
+• A média da produção é de: 12.33
 
-• A hora mais produtiva teve o valor de: 20
+• A hora mais produtiva teve o valor de: 15
 
-• A hora menos produtiva teve o valor de: 5
+• A hora menos produtiva teve o valor de: 10
 
-• A quantidade de quedas de produção foi de: 6
+• A quantidade de quedas de produção foi de: 1
 
 # Requisitos
 
 • Python 3.18
 
 # Como executar
+
 Salve o código em um arquivo, por exemplo: producao.py
 Execute no terminal:
 python producao.py
