@@ -54,7 +54,7 @@ Identificação de extremos
 
 • Digite a produção da hora 12
 
-... (Só será feito de 3 para resumir, porém o código irá calcular 16 valores inteiros)
+... (Só será feito o calculo de 3 para resumir, porém o código irá calcular 16 valores inteiros)
 
 # Saída esperada
 
