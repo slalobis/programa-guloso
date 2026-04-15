@@ -10,15 +10,17 @@ O programa executa as seguintes tarefas:
 
 • Armazena os dados em uma lista
 
-# Calcula
+# Calcula e mostra
+
+• Quantidade de horas decorridas
 
 • Produção total
 
 • Média da produção
 
-• Hora mais produtiva
+• Hora mais produtiva e seu valor
 
-• Hora menos produtiva
+• Hora menos produtiva e seu valor
 
 • Quantidade de quedas na produção
 
@@ -70,7 +72,7 @@ Identificação de extremos
 
 # Requisitos
 
-• Python 3.18
+• Python 3.8
 
 # Como executar
 
